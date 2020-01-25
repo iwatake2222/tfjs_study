@@ -2,9 +2,9 @@
 
 ## MNIST
 - MNIST
-	- https://iwatake2222.github.io/study_tfjs/mnist/index_image.html
+	- https://iwatake2222.github.io/tfjs_study/mnist/index_image.html
 - MNIST + WebCam
-	- https://iwatake2222.github.io/study_tfjs/mnist/index.html
+	- https://iwatake2222.github.io/tfjs_study/mnist/index.html
 
 
 ## Resource
